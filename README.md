@@ -17,6 +17,19 @@ Python 3 is required along with the following modules:
 cd src
 pip install -r requirements
 ```
+
+## Data
+
+Provided are 10 separate files with unit torque data for 10 individual vehicles in the form of timeseries. 
+
+Below are the 3 first data points for `car_0.csv` file.
+
+|   | vin   | timestamp_utc           | sig_name          | sig_value | sig_text |
+|---|-------|-------------------------|-------------------|-----------|----------|
+| 0 | car_0 | 2017-09-01 01:24:31.790 | PT_DI_torqueMotor | -1024.0   | SNA      |
+| 1 | car_0 | 2017-09-01 01:24:31.866 | PT_DI_torqueMotor | -1024.0   | SNA      |
+| 2 | car_0 | 2017-09-01 01:24:32.308 | PT_DI_torqueMotor | 0.0       |          |
+
 ## Solution:
 **Question 1.1**: Compute the 5 least common values by total occurence
 ```
