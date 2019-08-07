@@ -1,4 +1,4 @@
-## Tesla Coding Challenge
+## Autopilot Coding Challenge
 -----
 This repository contains the code used to solve the problem described below. 
 
