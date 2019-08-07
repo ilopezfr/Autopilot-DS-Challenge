@@ -1,5 +1,6 @@
 # ignore the following folders/files:
 /__pycache__
+/.ipynb_checkpoints
 /data
 /problem_statement
 tesla_coding_challenge_data.zip
