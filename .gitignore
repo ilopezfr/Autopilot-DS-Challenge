@@ -1,0 +1,7 @@
+# ignore the following folders/files:
+/__pycache__
+/data
+/problem_statement
+tesla_coding_challenge_data.zip
+solution_notebook.html
+warp.png
